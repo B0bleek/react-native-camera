@@ -1,3 +1,4 @@
+//изменение файла
 
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
